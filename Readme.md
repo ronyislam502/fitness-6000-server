@@ -31,6 +31,7 @@
 
 *If prettier does not work*, follow step 4:
 
+
 **Step - 4:** Add the code below to the `settings.json` file:
 
 ```
